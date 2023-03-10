@@ -1,0 +1,4 @@
+res://scenes/main.tscn
+res://scripts/GameLogic.gd
+res://scenes/AimRay.gd
+res://scenes/PlayerMovement.gd
